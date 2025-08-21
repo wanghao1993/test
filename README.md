@@ -8,6 +8,8 @@
 
 ## 钱包管理使用rainbowTookit
 
+## UI组件库是shadcn/ui
+
 ## 合约交互使用wagmi
 
 网络是：sepolia
