@@ -16,7 +16,7 @@
 
 
 合约地址是：0xe980e37De697598E0999D09B563e528be6E67316
-
-需要实现的功能是获取合约的totalsupply,sysmbol,decimals
+1. 需要实现的功能是连接钱包
+2. 页面上有个按钮获取合约代币的的totalsupply,sysmbol,decimals
 
 ## ERC20标准是什么
